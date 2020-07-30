@@ -8,4 +8,4 @@
 
 ![Repos](https://github.com/Sushant2/Sushant2/blob/master/img-gifs/repos.PNG)
 
-## 𝔖𝔥𝔬𝔴 𝔐𝔢 𝔜𝔬𝔲𝔯 ℜ𝔢𝔭𝔬, ℑ'𝔩𝔩 ![](img-gifs\fork.PNG) ℑ𝔱!
+## Show Me Your Repo, I'll `𝓕𝓸𝓻𝓴` It!
